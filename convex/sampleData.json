@@ -1,0 +1,138 @@
+[
+    {
+      "name": "Coldplay | Music of the Spheres Tour",
+      "description": "Join Coldplay for an unforgettable night of music and lights.",
+      "price":399.99,
+      "totalTickets":200,
+      "location": "Wembley Stadium, London",
+      "eventDate":1724052000000,
+      "userId": "user_qwer12asdzxcvbnm"
+    },
+    {
+      "name": "Billie Eilish | Happier Than Ever World Tour",
+      "description": "Experience Billie Eilish live in concert with her latest hits.",
+      "price":350.00,
+      "totalTickets":150,
+      "location": "Staples Center, Los Angeles",
+      "eventDate":1724234800000,
+      "userId": "user_asdfghjkl12345"
+    },
+    {
+      "name": "Ed Sheeran | Mathematics Tour",
+      "description": "Sing along to Ed Sheeran’s chart-topping hits.",
+      "price":450.00,
+      "totalTickets":300,
+      "location": "Madison Square Garden, New York",
+      "eventDate":1724420400000,
+      "userId": "user_123qweasdzxcvbn"
+    },
+    {
+      "name": "Adele | One Night Only",
+      "description": "A rare opportunity to witness Adele’s stunning live performance.",
+      "price":600.00,
+      "totalTickets":120,
+      "location": "O2 Arena, London",
+      "eventDate":1724532000000,
+      "userId": "user_09876zxcvbnmasd"
+    },
+    {
+      "name": "The Weeknd | After Hours Til Dawn Tour",
+      "description": "Dive into the world of The Weeknd with his electrifying performance.",
+      "price":320.00,
+      "totalTickets":180,
+      "location": "SoFi Stadium, Los Angeles",
+      "eventDate":1724678400000,
+      "userId": "user_zxcvbnmasdfghjk"
+    },
+    {
+      "name": "Bruno Mars | 24K Magic Tour",
+      "description": "Get ready for a night full of funk, pop, and incredible energy.",
+      "price":275.00,
+      "totalTickets":250,
+      "location": "T-Mobile Arena, Las Vegas",
+      "eventDate":1724872800000,
+      "userId": "user_asdf12345qwert"
+    },
+    {
+      "name": "Shawn Mendes | Wonder World Tour",
+      "description": "Catch Shawn Mendes as he performs his latest album live.",
+      "price":360.00,
+      "totalTickets":220,
+      "location": "Rogers Centre, Toronto",
+      "eventDate":1725019200000,
+      "userId": "user_789poiuytrewqas"
+    },
+    {
+      "name": "Harry Styles | Love On Tour",
+      "description": "Celebrate love with Harry Styles and his iconic hits.",
+      "price":400.00,
+      "totalTickets":180,
+      "location": "United Center, Chicago",
+      "eventDate":1725181200000,
+      "userId": "user_12345asdfghjkl"
+    },
+    {
+      "name": "Lady Gaga | Chromatica Ball",
+      "description": "Be dazzled by Lady Gaga’s unforgettable performance.",
+      "price":550.00,
+      "totalTickets":100,
+      "location": "Paris La Défense Arena, Paris",
+      "eventDate":1725343200000,
+      "userId": "user_lkjhgfdsa09876"
+    },
+    {
+      "name": "BTS | Map of the Soul Tour",
+      "description": "Feel the energy of BTS live in concert.",
+      "price":600.00,
+      "totalTickets":300,
+      "location": "Seoul Olympic Stadium, Seoul",
+      "eventDate":1725432000000,
+      "userId": "user_mnbvcxzlkjhgfd"
+    },
+    {
+      "name": "Justin Bieber | Justice World Tour",
+      "description": "Experience Justin Bieber’s latest hits live on stage.",
+      "price":350.00,
+      "totalTickets":200,
+      "location": "Oracle Arena, San Francisco",
+      "eventDate":1725675600000,
+      "userId": "user_asdfg09876poiuy"
+    },
+    {
+      "name": "Elton John | Farewell Yellow Brick Road",
+      "description": "A legendary farewell tour from Elton John.",
+      "price":700.00,
+      "totalTickets":150,
+      "location": "Mercedes-Benz Stadium, Atlanta",
+      "eventDate":1725861200000,
+      "userId": "user_qwertyuiop1234"
+    },
+    {
+      "name": "Imagine Dragons | Mercury World Tour",
+      "description": "Rock out with Imagine Dragons on their Mercury World Tour.",
+      "price":290.00,
+      "totalTickets":280,
+      "location": "PNC Arena, Raleigh",
+      "eventDate":1726027200000,
+      "userId": "user_13579zxcvbnmas"
+    },
+    {
+      "name": "Kendrick Lamar | The Big Steppers Tour",
+      "description": "Join Kendrick Lamar for a powerful night of music and performance.",
+      "price":320.00,
+      "totalTickets":220,
+      "location": "Barclays Center, Brooklyn",
+      "eventDate":1726161600000,
+      "userId": "user_plmokn09876qwer"
+    },
+    {
+      "name": "Taylor Swift | Folklore & Evermore Night",
+      "description": "An intimate evening with Taylor Swift featuring Folklore & Evermore.",
+      "price":520.00,
+      "totalTickets":140,
+      "location": "Red Rocks Amphitheatre, Colorado",
+      "eventDate":1726351200000,
+      "userId": "user_taylorswiftfan123"
+    }
+  ]
+  
